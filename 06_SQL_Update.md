@@ -8,7 +8,7 @@ SET [alan1] = deger1, [alan2] = deger2, ...
 WHERE [koşul];
 ```
 
-### AÇıklaması:
+### Açıklaması:
 
 - **[tablo adı]**: Güncellemek istediğiniz tablonun adıdır.
 - **SET**: Güncellenecek alanları ve bu alanlara atanacak yeni değerleri belirtir.

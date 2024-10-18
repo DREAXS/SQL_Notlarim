@@ -6,7 +6,7 @@ SQL'de `DELETE` komutu, bir veritabanı tablosundan belirli kayıtları silmek i
 DELETE FROM [tablo adı] WHERE [koşul];
 ```
 
-### AÇıklaması:
+### Açıklaması:
 
 - **[tablo adı]**: Kayıtları silmek istediğiniz tablonun adıdır.
 - **WHERE**: Hangi kayıtların silineceğini belirten koşuldur. Eğer `WHERE` kullanılmazsa, tablodaki tüm kayıtlar silinir.
