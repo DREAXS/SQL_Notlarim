@@ -2,7 +2,7 @@
 
 SQL'de `COUNT` fonksiyonu, belirli bir sütundaki veya tüm kayıtların sayısını hesaplamak için kullanılır. Bu, veri setindeki kayıtların miktarını hızlı bir şekilde öğrenmek için oldukça faydalıdır. `COUNT` fonksiyonunun temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT COUNT([alan]) FROM [tablo adı];
 ```
 
@@ -13,19 +13,19 @@ SELECT COUNT([alan]) FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT COUNT(*) FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki toplam çalışan sayısını getirir.
 
-```
+```sql
 SELECT COUNT(*) FROM personel WHERE departman = 'IT';
 ```
 
 Bu sorgu, `personel` tablosunda departmanı 'IT' olan çalışanların sayısını döndürür.
 
-```
+```sql
 SELECT COUNT(DISTINCT departman) FROM personel;
 ```
 

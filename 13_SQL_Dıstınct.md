@@ -2,7 +2,7 @@
 
 SQL'de `DISTINCT` ifadesi, sorgu sonuçlarında tekrar eden kayıtları kaldırarak yalnızca birbirinden farklı (eşsiz) verileri görüntülemek için kullanılır. Bu, veri setlerinde yinelenen değerlerin önüne geçer ve daha anlamlı sonuçlar elde etmenizi sağlar. `DISTINCT` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT DISTINCT [alan1], [alan2], ... FROM [tablo adı];
 ```
 
@@ -13,19 +13,19 @@ SELECT DISTINCT [alan1], [alan2], ... FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT DISTINCT departman FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki birbirinden farklı departman isimlerini getirir.
 
-```
+```sql
 SELECT DISTINCT maas FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki farklı maaş değerlerini döndürür.
 
-```
+```sql
 SELECT DISTINCT isim, departman FROM personel;
 ```
 

@@ -2,7 +2,7 @@
 
 SQL'de `AS` ifadesi, bir sütuna veya tabloya takma ad (alias) vermek için kullanılır. Bu, sorgu sonuçlarının daha okunabilir olmasını sağlar ve daha anlamlı isimler kullanmanızı sağlar. `AS` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT [alan1] AS [takma_ad], [alan2] AS [takma_ad] FROM [tablo adı];
 ```
 
@@ -14,19 +14,19 @@ SELECT [alan1] AS [takma_ad], [alan2] AS [takma_ad] FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT isim AS Çalışan_İsmi, maas AS Çalışan_Maaşı FROM personel;
 ```
 
 Bu sorgu, isim sütununu "Çalışan_İsmi" ve maaş sütununu "Çalışan_Maaşı" olarak gösterir.
 
-```
+```sql
 SELECT * FROM personel AS p;
 ```
 
 Bu sorgu, `personel` tablosuna "p" takma adını verir. Sonraki sorgularda "p" kullanılarak tabloya referans verilebilir.
 
-```
+```sql
 SELECT (maas * 12) AS Yıllık_Maaş FROM personel;
 ```
 

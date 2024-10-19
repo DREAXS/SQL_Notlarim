@@ -1,10 +1,10 @@
-# INSERT INTO Komutunun Kullanımı
+## **# SQL'de INSERT INTO İfadesinin Kullanımı**
 
 ---
 
 SQL'de veritabanına kayıt eklemek için `INSERT INTO` deyimini kullanırız. Komutun temel yapısı aşağıdaki gibidir.
 
-```
+```sql
 INSERT INTO [tablo adı] (alan adları) VALUES (veriler);
 ```
 
@@ -19,7 +19,7 @@ INSERT INTO [tablo adı] (alan adları) VALUES (veriler);
 
 ## Örnek Kullanım
 
-```
+```sql
 INSERT INTO personel (ID, isim, bolum, dtarihi, dyeri, maas)
 VALUES (65, 'ALPER BİLGİN', 'CE', 2003, 'KONYA', 00000);
 ```
@@ -32,7 +32,7 @@ VALUES (65, 'ALPER BİLGİN', 'CE', 2003, 'KONYA', 00000);
 
 - Eğer tablonun tüm alanlarına bilgi girilecekse, bu durumda alan adlarını yazmamıza gerek yoktur. Ancak, bazı alanları **NULL** olarak bırakmak istiyorsak, yalnızca değer vermek istediğimiz alanları belirtebiliriz.
 
-```
+```sql
 INSERT INTO personel (ID, isim, bolum)
 VALUES (65, 'Alper Bilgin', 'CE');
 ```

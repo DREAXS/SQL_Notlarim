@@ -2,7 +2,7 @@
 
 SQL'de `BETWEEN` yapısı, bir sütundaki verilerin belirli bir aralıkta olup olmadığını kontrol etmek için kullanılır. Bu, genellikle tarih veya sayısal veriler için aralık sorgulamaları yapmak için kullanılır. `BETWEEN` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı]
  WHERE [alan] BETWEEN [değer1] AND [değer2];
 ```
@@ -16,7 +16,7 @@ SELECT [alan1], [alan2], ... FROM [tablo adı]
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT * FROM siparisler WHERE siparis_tarihi
 BETWEEN '2024-01-01' AND '2024-12-31';
 
@@ -24,13 +24,13 @@ BETWEEN '2024-01-01' AND '2024-12-31';
 
 Bu sorgu, 2024 yılı içindeki tüm sipariş kayıtlarını getirir.
 
-```
+```sql
 SELECT * FROM personel WHERE yaş BETWEEN 25 AND 35;
 ```
 
 Bu sorgu, yaşı 25 ile 35 arasında olan tüm personel kayıtlarını getirir.
 
-```
+```sql
 SELECT * FROM personel WHERE maas BETWEEN 40000 AND 60000;
 ```
 

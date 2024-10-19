@@ -2,7 +2,7 @@
 
 **ORDER BY**: SQL'de `ORDER BY` ifadesi, sorgu sonuçlarını belirli bir sütuna göre sıralamak için kullanılır. Sonuçlar, artan (ASC) veya azalan (DESC) sırada düzenlenebilir. `ORDER BY` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı]
 ORDER BY [sütun1] [ASC|DESC];
 ```
@@ -17,13 +17,13 @@ ORDER BY [sütun1] [ASC|DESC];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT * FROM personel ORDER BY maas DESC;
 ```
 
 Bu sorgu, `personel` tablosundaki kayıtları maaşa göre azalan sırada getirir.
 
-```
+```sql
 SELECT * FROM personel ORDER BY isim ASC;
 ```
 
@@ -33,7 +33,7 @@ Bu sorgu, `personel` tablosundaki kayıtları isme göre artan sırada listeler.
 
 **TOP**: SQL'de `TOP` ifadesi, sorgu sonuçlarından yalnızca belirli sayıda kaydı almak için kullanılır. Genellikle büyük veri setlerinde performansı artırmak için kullanılır. `TOP` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT TOP [n] [alan1], [alan2], ... FROM [tablo adı];
 ```
 
@@ -45,13 +45,13 @@ SELECT TOP [n] [alan1], [alan2], ... FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT TOP 5 * FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki ilk 5 kaydı getirir.
 
-```
+```sql
 SELECT TOP 3 * FROM personel ORDER BY maas DESC;
 ```
 

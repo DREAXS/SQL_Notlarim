@@ -2,7 +2,7 @@
 
 SQL'de `SUM` fonksiyonu, belirli bir sütundaki sayıların toplamını hesaplamak için kullanılır. Bu, genellikle finansal veriler veya sayısal veri analizleri için kullanışlıdır. `SUM` fonksiyonunun temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT SUM([alan]) FROM [tablo adı];
 ```
 
@@ -13,19 +13,19 @@ SELECT SUM([alan]) FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT SUM(maas) FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki tüm çalışanların maaşlarının toplamını getirir.
 
-```
+```sql
 SELECT SUM(maas) FROM personel WHERE departman = 'IT';
 ```
 
 Bu sorgu, `personel` tablosunda departmanı 'IT' olan çalışanların maaşlarının toplamını döndürür.
 
-```
+```sql
 SELECT SUM(tutar) FROM siparisler
 WHERE siparis_tarihi BETWEEN '2023-01-01' AND '2023-12-31';
 ```

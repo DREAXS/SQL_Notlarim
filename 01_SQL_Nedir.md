@@ -1,4 +1,4 @@
-# SQL Nedir?
+## **# SQL NEDİR**
 
 SQL (Structured Query Language), veritabanı yönetimi için kullanılan bir dildir.
 

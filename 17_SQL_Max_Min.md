@@ -2,7 +2,7 @@
 
 SQL'de `MAX` ve `MIN` fonksiyonları, belirli bir sütundaki en yüksek ve en düşük değerleri bulmak için kullanılır. `MAX` fonksiyonu, bir sütundaki en yüksek değeri döndürürken, `MIN` fonksiyonu o sütundaki en düşük değeri döndürür. Her iki fonksiyon da genellikle sayısal veya tarih verileri üzerinde kullanılır ve veri analizi için oldukça faydalıdır. `MAX` ve `MIN` fonksiyonlarının temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT MAX([alan]) FROM [tablo adı];
 SELECT MIN([alan]) FROM [tablo adı];
 ```
@@ -14,20 +14,20 @@ SELECT MIN([alan]) FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT MAX(maas) FROM personel;
 ```
 
 Bu sorgu, `personel` tablosundaki en yüksek maaşı getirir.
 
-```
+```sql
 SELECT MAX(bitis_tarihi) AS En_Gec_Bitis,
  MIN(bitis_tarihi) AS En_Erken_Bitis FROM projeler;
 ```
 
 Bu sorgu, `projeler` tablosundaki en geç ve en erken bitiş tarihlerini getirir.
 
-```
+```sql
 SELECT MAX(satis_miktari) AS En_Yuksek_Satis,
  MIN(satis_miktari) AS En_Dusuk_Satis FROM satislar;
 

@@ -1,8 +1,8 @@
-## **# SELECT VE WHERE Komutlarının Kullanımı**
+## **# SQL'de SELECT VE WHERE İfadelerinin Kullanımı**
 
 SQL'de `SELECT` ve `WHERE` komutlarının kullanımı ile ilgili bir açıklama yapalım. `SELECT` komutu, veritabanından veri almak için kullanılırken, `WHERE` komutu bu verilerin filtrelenmesini sağlar. Komutun temel yapısı aşağıdaki gibidir.
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı];
 ```
 
@@ -13,11 +13,11 @@ SELECT [alan1], [alan2], ... FROM [tablo adı];
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT * FROM personel;
 ```
 
-```
+```sql
 SELECT isim, maas FROM personel;
 ```
 
@@ -27,13 +27,13 @@ Yukarıdaki SQL sorgusu sadece isim ve maaş sütunlarını almak için kullanı
 
 # WHERE KOŞULU
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı] WHERE [koşul];
 ```
 
 **\*[koşul]**: Hangi kayıtların seçileceğini belirten kriterlerdir. Örneğin, belirli bir ID veya yaş aralığı gibi.
 
-```
+```sql
 SELECT * FROM personel WHERE ID = 65;
 ```
 
@@ -41,7 +41,7 @@ SELECT * FROM personel WHERE ID = 65;
 
 Birden fazla koşul belirlemek için `AND` ve `OR` anahtar kelimelerini kullanabilirsiniz.
 
-```
+```sql
 SELECT * FROM personel WHERE maas > 50000 AND departman = 'IT';
 ```
 

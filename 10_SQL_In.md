@@ -2,7 +2,7 @@
 
 SQL'de `IN` yapısı, belirli bir sütundaki verilerin belirli bir liste içindeki değerlerle karşılaştırılmasını sağlar. Bu, birden fazla değeri kontrol etmek için pratik bir yol sunar. `IN` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı]
 WHERE [alan] IN (değer1, değer2, ...);
 ```
@@ -15,19 +15,19 @@ WHERE [alan] IN (değer1, değer2, ...);
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT * FROM personel WHERE departman IN ('IT', 'Pazarlama', 'HR');
 ```
 
 Bu sorgu, departmanı 'IT', 'Pazarlama' veya 'HR' olan tüm personel kayıtlarını getirir.
 
-```
+```sql
 SELECT * FROM personel WHERE yaş IN (25, 30, 35);
 ```
 
 Bu sorgu, yaşı 25, 30 veya 35 olan tüm personel kayıtlarını getirir.
 
-```
+```sql
 SELECT * FROM siparisler WHERE durum IN ('Tamamlandı', 'Beklemede');
 ```
 

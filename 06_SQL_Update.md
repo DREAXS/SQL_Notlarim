@@ -1,8 +1,8 @@
-## **# UPDATE Komutunun Kullanımı**
+## **# SQL'de UPDATE İfadesinin Kullanımı**
 
 SQL'de `UPDATE` komutu, mevcut bir kaydın verilerini güncellemek için kullanılır. Komutun temel yapısı aşağıdaki gibidir.
 
-```
+```sql
 UPDATE [tablo adı]
 SET [alan1] = deger1, [alan2] = deger2, ...
 WHERE [koşul];
@@ -16,7 +16,7 @@ WHERE [koşul];
 
 ## Örnek Kullanım
 
-```
+```sql
 UPDATE personel
 SET maas = 99999
 WHERE ID = 65;
@@ -28,7 +28,7 @@ Bu örnekte, **personel** tablosundaki **ID** değeri 65 olan çalışanın maa�
 
 Birden fazla alanı güncellemek isterseniz, SET ifadesinde alanları virgülle ayırarak belirtebilirsiniz.
 
-```
+```sql
 UPDATE personel
 SET maas = 99999, bolum = 'CE'
 WHERE ID = 65;

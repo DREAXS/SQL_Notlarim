@@ -1,8 +1,8 @@
-## **# DELETE Komutunun Kullanımı**
+## **# SQL'de DELETE İfadesinin Kullanımı**
 
 SQL'de `DELETE` komutu, bir veritabanı tablosundan belirli kayıtları silmek için kullanılır. Komutun temel yapısı aşağıdaki gibidir.
 
-```
+```sql
 DELETE FROM [tablo adı] WHERE [koşul];
 ```
 
@@ -13,7 +13,7 @@ DELETE FROM [tablo adı] WHERE [koşul];
 
 ## Örnek Kullanım
 
-```
+```sql
 DELETE FROM personel WHERE ID = 65;
 ```
 
@@ -27,7 +27,7 @@ Bu örnekte, **personel** tablosundaki **ID** değeri 65 olan kayıt silinir.
 
 - **_Yedekleme_**: Silme işlemi geri alınamaz, bu yüzden önemli verilerinizi silmeden önce yedek almak iyi bir uygulamadır.
 
-```
+```sql
 DELETE FROM personel;
 ```
 

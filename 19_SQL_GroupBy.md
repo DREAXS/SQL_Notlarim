@@ -2,7 +2,7 @@
 
 SQL'de `GROUP BY` ifadesi, belirli bir sütundaki verileri gruplamak için kullanılır. Bu, aynı değere sahip kayıtların bir araya getirilmesini ve bu gruplar üzerinde toplama, ortalama gibi fonksiyonların uygulanmasını sağlar. `GROUP BY` ifadesinin temel yapısı aşağıdaki gibidir:
 
-```
+```sql
 SELECT [alan1], [alan2], ... FROM [tablo adı]
 GROUP BY [sütun1], [sütun2], ...;
 ```
@@ -15,21 +15,21 @@ GROUP BY [sütun1], [sütun2], ...;
 
 ## Örnek Kullanım
 
-```
+```sql
 SELECT departman, AVG(maas) AS Ortalama_Maas
 FROM personel GROUP BY departman;
 ```
 
 Bu sorgu, `personel` tablosundaki her departman için maaş ortalamalarını döndürür.
 
-```
+```sql
 SELECT kategori, SUM(satis_miktari) AS Toplam_Satis
 FROM urunler GROUP BY kategori;
 ```
 
 Bu sorgu, `urunler` tablosundaki her kategori için toplam satış miktarlarını getirir.
 
-```
+```sql
 SELECT musteri_id, SUM(tutar) AS Toplam_Tutar
 FROM siparisler GROUP BY musteri_id;
 ```

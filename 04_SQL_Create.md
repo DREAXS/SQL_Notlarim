@@ -1,4 +1,4 @@
-**# SQL** **`CREATE TABLE`** **Komutu**
+## **# SQL CREATE**
 
 **### 1. Tablo Adı**
 

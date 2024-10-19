@@ -1,4 +1,4 @@
-# SQL Veri Tipleri
+## **# SQL VERİ TİPLERİ**
 
 Aşağıda SQL'de kullanılan temel veri tipleri ve açıklamaları bulunmaktadır.
 
