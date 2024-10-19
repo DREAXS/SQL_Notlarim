@@ -1,4 +1,4 @@
-## **# INSERT INTO Komutunun Kullanımı**
+## **# UPDATE Komutunun Kullanımı**
 
 SQL'de `UPDATE` komutu, mevcut bir kaydın verilerini güncellemek için kullanılır. Komutun temel yapısı aşağıdaki gibidir.
 
