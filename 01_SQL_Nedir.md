@@ -27,4 +27,4 @@ SQL (Structured Query Language), veritabanı yönetimi için kullanılan bir dil
 
 &nbsp;
 
-> > > > > > > <**_[Alper BİLGİN](https://www.markdownguide.org)_**>
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

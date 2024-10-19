@@ -37,3 +37,9 @@ SQL deyimleri, veritabanları üzerinde çeşitli işlemleri gerçekleştirmek i
      - `REVOKE`: Kullanıcılardan hakları geri alır.
 
 SQL, veritabanı yönetiminde kritik bir rol oynar ve bu komutlar, veritabanı ile etkileşimde bulunmak için temel araçlardır.
+
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

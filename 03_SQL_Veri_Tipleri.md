@@ -69,3 +69,9 @@ Aşağıda SQL'de kullanılan temel veri tipleri ve açıklamaları bulunmaktad�
 
 - **BINARY**
   - Maksimum 8000 byte boyutunda, sabit uzunlukta binary veri saklamak için kullanılır.
+
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>
