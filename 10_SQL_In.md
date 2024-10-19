@@ -11,7 +11,6 @@ WHERE [alan] IN (değer1, değer2, ...);
 
 - **[tablo adı]**: Sorgulamak istediğiniz verilerin bulunduğu tablonun adı.
 - **[alan]**: Karşılaştırma yapmak istediğiniz sütun.
-- **[kalıp]**: Arama kriterlerini belirten dize. `%` ve `_` karakterleri özel anlam taşır.
 - **(değer1, değer2, ...)**: Kontrol etmek istediğiniz değerlerin listesidir.
 
 ## Örnek Kullanım
