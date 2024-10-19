@@ -22,3 +22,9 @@ SQL (Structured Query Language), veritabanı yönetimi için kullanılan bir dil
 
 5. **Veri Güvenliği**
    - SQL, kullanıcı erişim kontrolü ve veritabanı güvenliği için de kullanılabilir.
+
+&nbsp;
+
+&nbsp;
+
+> > > > > > > <**_[Alper BİLGİN](https://www.markdownguide.org)_**>
