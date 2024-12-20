@@ -39,3 +39,8 @@ Bu sorgu, `siparisler` tablosunda 2023 yılındaki siparişlerin toplam tutarın
 - **SUM**, belirli bir sütundaki sayıların toplamını hesaplamak için kullanılır.
 - Finansal veriler veya sayısal veri analizleri için oldukça faydalıdır.
 - **SUM** fonksiyonu, belirli koşullarla birlikte kullanılarak daha spesifik toplam hesaplamalarına olanak tanır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

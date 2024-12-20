@@ -39,3 +39,8 @@ WHERE ID = 65;
 
 **_ÖZETLE_**
 ´Bu formata göre **UPDATE** deyiminden sonra hangi veritabanı tablosunda güncelleme yapmak istiyorsak o tablonun adını yazıyoruz. **SET** deyiminden sonra değiştirmek istediğimiz bilgileri giriyoruz. Son olarak **WHERE** ifadesinden sonra değiştirme işlemi yapacağımız kayıtlarla ilgili şartı veya şartları yazıyoruz. WHERE ifadesinin kullanımı zorunlu değildir, fakat WHERE kullanılmazsa bütün kayıtlar değiştirme işleminden etkilenecektir.
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

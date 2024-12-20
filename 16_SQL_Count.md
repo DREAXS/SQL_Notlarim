@@ -37,3 +37,8 @@ Bu sorgu, `personel` tablosundaki farklı departman sayısını hesaplar.
 
 - **COUNT**, belirli bir sütundaki veya tüm kayıtların sayısını hesaplamak için kullanılır.
 - **COUNT** fonksiyonu, belirli koşullarla birlikte kullanılarak daha spesifik sayım işlemleri gerçekleştirebilir.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

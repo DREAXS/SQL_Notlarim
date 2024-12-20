@@ -52,3 +52,9 @@ RETURN
   WHERE Kategori = @kategori
 );
 ```
+
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

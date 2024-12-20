@@ -36,3 +36,8 @@ Bu sorgu, her isim ve departman kombinasyonunun kayıtlarını gösterir.
 - **DISTINCT**, sorgu sonuçlarında yalnızca benzersiz verileri görüntülemek için kullanılır.
 - Tekrar eden kayıtları kaldırarak daha anlamlı ve temiz sonuçlar elde etmenizi sağlar.
 - **DISTINCT** ifadesi, bir veya daha fazla sütun için uygulanabilir.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

@@ -50,3 +50,8 @@ SELECT * FROM personel WHERE maas > 50000 AND departman = 'IT';
 - **SELECT**: Belirli bir tablodan veri seçmek için kullanılır.
 - **WHERE**: Hangi kayıtların seçileceğini belirlemek için kullanılır.
 - WHERE ifadesi, filtreleme yaparak daha spesifik sonuçlar elde etmenizi sağlar.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

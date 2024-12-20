@@ -41,3 +41,8 @@ Bu sorgu, maaşı 40.000 ile 60.000 arasında olan tüm personel kayıtlarını 
 - **BETWEEN**, belirli bir sütundaki verilerin, belirtilen bir aralıkta olup olmadığını kontrol etmek için kullanılır.
 - Aralık belirlemek için etkili bir yöntem sunar ve sorguları daha okunabilir hale getirir.
 - **BETWEEN** ifadesi, hem alt hem de üst sınırları dahil ederek sorgulama yapar.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

@@ -37,3 +37,8 @@ Bu sorgu, çalışanların yıllık maaşlarını "Yıllık_Maaş" adıyla göst
 - **AS**, bir sütuna veya tabloya takma ad vermek için kullanılır.
 - Sonuçların daha okunabilir ve anlamlı olmasını sağlar
 - **AS** ifadesi, sorgularda daha kısa ve anlaşılır referanslar kullanmanıza olanak tanır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

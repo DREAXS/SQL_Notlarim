@@ -38,3 +38,8 @@ Bu sorgu, yaşı 30'dan büyük ve departmanı 'Pazarlama' olan çalışanların
 - **AVG**, belirli bir sütundaki sayıların ortalamasını hesaplamak için kullanılır.
 - Genellikle sayısal veri tipleri üzerinde çalışır ve toplu veri analizi için faydalıdır.
 - **AVG** fonksiyonu, belirli koşullarla birlikte kullanılarak daha spesifik ortalama hesaplamalarına olanak tanır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

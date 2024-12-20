@@ -42,3 +42,8 @@ Bu sorgu, `siparisler` tablosundaki her müşteri için toplam sipariş tutarın
 
 - **GROUP BY**, belirli bir sütundaki verileri gruplamak için kullanılır.
 - Aynı değere sahip kayıtları bir araya getirir ve gruplar üzerinde toplama, ortalama gibi fonksiyonların uygulanmasına olanak tanır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

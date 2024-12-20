@@ -119,9 +119,14 @@ Bu sorgu, **IT** departmanındaki maaş ortalamasından yüksek maaş ortalamas�
 
 &nbsp;
 
-**\*\*****ÖZETLE****\*\***
+**\*\*\*\***ÖZETLE\***\*\*\***
 
 - **İç İçe Sorgular**, başka bir SQL sorgusunun içinde yer alan sorgulardır ve genellikle `WHERE`, `FROM`, `SELECT`, `HAVING` gibi ifadelerde kullanılır.
 - **IN, ANY, ALL** gibi operatörler ile iç sorgulardan dönen sonuçlar arasında karşılaştırmalar yapılabilir.
 - **HAVING** ve **GROUP BY** ifadeleri ile gruplanmış verilere filtre uygulamak için de iç içe sorgular kullanılabilir.
 - İç sorgular, dış sorgudan önce çalışır ve sonuçlarını dış sorguya aktarır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

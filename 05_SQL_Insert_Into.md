@@ -40,3 +40,8 @@ VALUES (65, 'Alper Bilgin', 'CE');
 ---
 
 \*Bu örnekte, yalnızca `ID`, `isim` ve `bolum` alanlarına değer ekleniyor. `dtarihi`, `dyeri` ve `maas` alanları boş kalacak ve bu alanlar için varsayılan değerler kullanılacaktır (eğer varsa).
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

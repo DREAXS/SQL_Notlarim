@@ -97,3 +97,8 @@ END;
 - **@PersonID**: Prosedüre parametre olarak bir PersonID değeri verilmiştir. Bu değer, belirli bir kişiyi sorgulamak için kullanılır.
 - **LEFT JOIN**: Sol tablodaki (**KISILER**) tüm kayıtları ve sağ tablodaki (**KITAPLAR**) eşleşen kayıtları döndüren **LEFT JOIN** kullanılmıştır. Eşleşmeyen kayıtlar için sağ tablodan **NULL** döndürülür.
 - **WHERE K.ID = @PersonID**: Bu koşul, sadece belirli bir kişinin bilgilerini almak için kullanılacaktır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

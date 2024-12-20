@@ -38,3 +38,8 @@ Bu sorgu, durumu 'Tamamlandı' veya 'Beklemede' olan tüm sipariş kayıtların�
 - **IN**, belirli bir sütundaki verilerin, belirli bir değer listesiyle karşılaştırılmasını sağlar.
 - Birden fazla değeri kontrol etmek için kullanışlıdır ve sorguları daha okunabilir hale getirir.
 - **IN** ifadesi, birden fazla değeri aynı anda kontrol etmek için etkili bir yöntem sunmaktadır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

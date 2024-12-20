@@ -62,3 +62,8 @@ Yukarıdaki SQL kodunun çalıştırılmasıyla aşağıdaki gibi bir tablo yap�
 | \***\*MusteriID\*\*** | \***\*Isim\*\*** | \***\*Email\*\*** | \***\*DogumTarihi\*\*** | \***\*Bakiye\*\*** |
 | --------------------- | ---------------- | ----------------- | ----------------------- | ------------------ |
 | `INT`                 | `VARCHAR(100)`   | `VARCHAR(150)`    | `DATE`                  | `DECIMAL(10, 2)`   |
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

@@ -62,3 +62,8 @@ Bu sorgu, `personel` tablosundaki en yüksek maaşa sahip 3 çalışanı listele
 - **ORDER BY**, sorgu sonuçlarını belirli bir sütuna göre sıralamak için kullanılır
 - **TOP**, sorgu sonuçlarından yalnızca belirli sayıda kaydı almak için kullanılır
 - **ORDER BY** ifadesi, sıralama yaparak verileri daha düzenli hale getirirken, **TOP** ifadesi ise performansı artırmak için veri miktarını sınırlamaya yardımcı olur.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

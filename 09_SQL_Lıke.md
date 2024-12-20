@@ -48,3 +48,8 @@ Bu sorgu, ismi ikinci karakteri 'a' olan tüm personel kayıtlarını getirir.
 - **LIKE**, belirli bir kalıba uyan verileri sorgulamak için kullanılır.
 - `%` ve `_` karakterleri, kalıp belirlemede önemli rol oynar.
 - **LIKE** ifadesi, metin aramalarında esneklik sağlar ve daha spesifik sonuçlar elde etmenizi mümkün kılar.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

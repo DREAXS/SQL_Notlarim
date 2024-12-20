@@ -38,3 +38,8 @@ DELETE FROM personel;
 **_ÖZETLE_**
 
 Bu formata göre **DELETE FROM** deyiminden sonra hangi veri tabanı tablosunda alan silmek istiyorsak o tablonun adını yazıyoruz. Son olarak **WHERE** ifadesinden sonra silmek isteğimiz kayıtlarla ilgili şartı veya şartları yazıyoruz. WHERE ifadesinin kullanımı zorunlu değildir, fakat WHERE kullanılmazsa bütün kayıtlar değiştirme işleminden etkilenecektir.
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

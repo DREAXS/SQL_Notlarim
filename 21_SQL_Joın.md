@@ -110,7 +110,7 @@ Eğer **KITAPLAR** tablosunda bir kitap varsa, ancak bu kitabın yazarı **KISIL
 
 &nbsp;
 
-**\*\*****ÖZETLE****\*\***
+**\*\*\*\***ÖZETLE\***\*\*\***
 
 - **JOIN**, SQL’de iki veya daha fazla tabloyu birleştirmek için kullanılır.
 - **INNER JOIN**: Her iki tablodan eşleşen kayıtları getirir.
@@ -118,3 +118,8 @@ Eğer **KITAPLAR** tablosunda bir kitap varsa, ancak bu kitabın yazarı **KISIL
 - **RIGHT JOIN**: Sağ tablodaki tüm kayıtları ve sol tablodan eşleşen kayıtları döndürür; eşleşmeyen sol tablonun sütunları **NULL** olur.
 - **FULL OUTER JOIN**: Hem sol hem de sağ tablodaki tüm kayıtları döndürür; eşleşmeyen kayıtlar için **NULL** değeri gösterilir.
 - **NULL değerler** JOIN işlemlerinde özellikle dış birleştirme türlerinde önemli bir rol oynar ve eksik verileri belirtir.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

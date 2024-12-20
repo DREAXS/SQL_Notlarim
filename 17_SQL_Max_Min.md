@@ -42,3 +42,8 @@ Bu sorgu, `personel` tablosundaki farklı departman sayısını hesaplar.
 - **COUNT**, belirli bir sütundaki veya tüm kayıtların sayısını hesaplamak için kullanılır.
 - **MIN**, belirli bir sütundaki en düşük değeri bulmak için kullanılır.
 - Her iki fonksiyon da genellikle sayısal veya tarih verileri üzerinde çalışır ve belirli koşullarla birlikte kullanılarak daha spesifik değer bulma işlemlerine olanak tanır.
+  &nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>
