@@ -45,3 +45,8 @@ END CATCH;
 ## **ÖZETLE**
 
 Bu SQL Server transaction örneğinde, birden fazla işlem yapılır (maaş artışı örneğn). Eğer işlemler başarılı olursa, transaction commit edilir ve değişiklikler kaydedilir. Ancak bir hata oluşursa, tüm işlemler geri alınır (**ROLLBACK**) ve veritabanı tutarlı bir duruma döner. Bu yapı, veritabanındaki bütünlüğü ve güvenliği sağlamak için önemlidir.
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>

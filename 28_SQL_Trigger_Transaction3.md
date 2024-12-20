@@ -25,3 +25,8 @@
 <$>[note]
 Transaction’lar, veri tutarlılığı sağlarken, doğru şekilde yönetilmezse performans sorunlarına ve deadlock gibi problemlere yol açabilir.
 <$>
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>
