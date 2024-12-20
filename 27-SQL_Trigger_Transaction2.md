@@ -95,6 +95,9 @@ SELECT * FROM deletedMusteri;
 - **Trigger**: **silMusteri** tetikleyicisi, **musteri** tablosundan bir müşteri silindiğinde devreye girer ve silinen müşteri verilerini **deletedMusteri** tablosuna ekler.
 - **ELETE**: Silme işlemi yapıldığında, tetikleyici devreye girer ve müşteri verileri yedeklenir.
 - **SELECT**: **deletedMusteri** tablosundaki silinen müşteri verilerini sorgulamak için kullanılır.
-  &nbsp;
-  &nbsp;
-  <**_[Alper BİLGİN](https://github.com/DREAXS)_**>
+
+&nbsp;
+
+&nbsp;
+
+<**_[Alper BİLGİN](https://github.com/DREAXS)_**>
